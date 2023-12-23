@@ -1,3 +1,4 @@
+![Screenshot from 2023-12-24 00-25-35](https://github.com/Baljeetism/reccoMOVIE/assets/57327580/268917c1-9abe-4440-808f-829bac985458)
 content based movie recommender 
  suggests similar 6 movies
  based on cosine similarity
